@@ -1,0 +1,13 @@
+C:\Users\Oscar\source\repos\AlexaPartes\AlexaPartes\bin\Debug\netstandard2.0\AlexaPartes.deps.json
+C:\Users\Oscar\source\repos\AlexaPartes\AlexaPartes\bin\Debug\netstandard2.0\AlexaPartes.dll
+C:\Users\Oscar\source\repos\AlexaPartes\AlexaPartes\obj\Debug\netstandard2.0\AlexaPartes.csprojAssemblyReference.cache
+C:\Users\Oscar\source\repos\AlexaPartes\AlexaPartes\obj\Debug\netstandard2.0\App.xaml.g.cs
+C:\Users\Oscar\source\repos\AlexaPartes\AlexaPartes\obj\Debug\netstandard2.0\MainPage.xaml.g.cs
+C:\Users\Oscar\source\repos\AlexaPartes\AlexaPartes\obj\Debug\netstandard2.0\AlexaPartes.AssemblyInfoInputs.cache
+C:\Users\Oscar\source\repos\AlexaPartes\AlexaPartes\obj\Debug\netstandard2.0\AlexaPartes.AssemblyInfo.cs
+C:\Users\Oscar\source\repos\AlexaPartes\AlexaPartes\bin\Debug\netstandard2.0\ref\AlexaPartes.dll
+C:\Users\Oscar\source\repos\AlexaPartes\AlexaPartes\bin\Debug\netstandard2.0\AlexaPartes.pdb
+C:\Users\Oscar\source\repos\AlexaPartes\AlexaPartes\obj\Debug\netstandard2.0\XamlC.stamp
+C:\Users\Oscar\source\repos\AlexaPartes\AlexaPartes\obj\Debug\netstandard2.0\AlexaPartes.dll
+C:\Users\Oscar\source\repos\AlexaPartes\AlexaPartes\obj\Debug\netstandard2.0\ref\AlexaPartes.dll
+C:\Users\Oscar\source\repos\AlexaPartes\AlexaPartes\obj\Debug\netstandard2.0\AlexaPartes.pdb
